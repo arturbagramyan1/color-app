@@ -1,4 +1,4 @@
-// replace your fetch-based api.js with JSONP helpers
+
 
 const SCRIPT_URL =
 	"https://script.google.com/macros/s/AKfycbxYomWCmWI1D317KCYamxl2AzOILXWslLA1G_BL7jo-forKtWE3bL1CZl_c5RDojhPI/exec";

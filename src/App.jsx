@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import React, { useEffect, useState } from "react";
 import { fetchAvailableJSONP, assignColorJSONP } from "./api/api";
 import ColorSwatch from "./components/ColorSwatch";
